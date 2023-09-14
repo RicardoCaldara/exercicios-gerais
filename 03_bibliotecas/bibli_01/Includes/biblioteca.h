@@ -1,5 +1,5 @@
-#ifndef _ESFERA_UTILS_H
-#define _ESFERA_UTILS_H
+#ifndef _BIBLIOTECA_H
+#define _BIBLIOTECA_H
 
 #define PI 3.14
 
